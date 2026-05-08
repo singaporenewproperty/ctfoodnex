@@ -1,0 +1,9 @@
+# CT Food Nex
+
+> CT Food Nex — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/ctfoodnex/
+
+## Pages
+
+- [CT Food Nex](https://singaporenewproperty.github.io/ctfoodnex/): CT Food Nex property information.
